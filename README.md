@@ -14,10 +14,10 @@
 
 * Clone the repository and go to it on the command line:
 ```bash
-git clone https://github.com/feyaschuk/sync_directories.git
+git clone https://github.com/feyaschuk/test_task_2.git
 ```
 ```bash
-cd sync_directories
+cd test_task_2
 ```
 
 * Run the program:

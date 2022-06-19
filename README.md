@@ -28,8 +28,6 @@ python sync.py (source directory path) (replica directory path) (interval) (path
 ```bash
 python sync.py 'C:\Users\user\Dev\xz' 'C:\Users\user\Dev\test' 5 'C:\Users\user\Dev\sprint13\Log.log'
 ```
-![image](https://user-images.githubusercontent.com/81573309/136705657-ae8b0cd6-1772-49f2-a72a-e5c37d9b193e.png)
-
 #### Notice:
 * For Windows users - paths to directories and the path to the log file must be specified in quotation marks.
 * The restart interval is in seconds
